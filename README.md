@@ -6,4 +6,4 @@ BMI = mass / height ** 2 = mass / (height * height)
 In this challenge 2 different people enter their name, mass and height and the script return their BMI compared to each other
 
 ### Notes
-the used syntax includes prompt, alert, if statements 
+The used syntax includes prompt, alert, if statements 
